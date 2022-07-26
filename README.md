@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sooraj Sahu  
+- 👀 I’m interested in Python and Javascript technologies. 
+- 🌱 I am trying to build a career in webdevelopment. 
+- I am also finding a way into data science for myself. 
+- 
